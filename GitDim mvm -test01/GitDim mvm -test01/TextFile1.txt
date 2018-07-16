@@ -1,2 +1,6 @@
 ﻿MVVM
 https://www.youtube.com/watch?v=Dzv8CtUCchY
+
+
+GIT tutorial
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
