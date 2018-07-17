@@ -36,6 +36,13 @@ namespace GitDim_mvm__test01.Models
             }
         }
 
+
+        /// <summary>
+        /// new test
+        /// </summary>
+        /// 
+
+
         public event PropertyChangedEventHandler PropertyChanged;
     }
 }
