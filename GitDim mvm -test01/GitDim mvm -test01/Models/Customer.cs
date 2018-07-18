@@ -38,7 +38,7 @@ namespace GitDim_mvm__test01.Models
 
         public event PropertyChangedEventHandler PropertyChanged;
 
-        /// test comment;
+        /// test comment from laptop;
 
     }
 }
