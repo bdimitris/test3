@@ -9,6 +9,8 @@ namespace GitDim_mvm__test01.Models
 {
     public class Customer : INotifyPropertyChanged
     {
+        
+       
 
         /// <summary>
         /// Initializes a new instance of the Customer class;
@@ -36,12 +38,14 @@ namespace GitDim_mvm__test01.Models
             }
         }
 
+        
 
         /// <summary>
         /// new test
         /// </summary>
         /// 
 
+        
 
         public event PropertyChangedEventHandler PropertyChanged;
     }
