@@ -34,7 +34,7 @@ namespace GitDim_mvm__test01.Models
             set
             {
                 value = _Name;
-                OnpropertyChanged("Name");
+                OnPropertyChanged("Name");
             }
         }
 
@@ -48,5 +48,8 @@ namespace GitDim_mvm__test01.Models
         
 
         public event PropertyChangedEventHandler PropertyChanged;
+
+        /// test comment from laptop;
+
     }
 }
